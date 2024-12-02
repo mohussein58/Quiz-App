@@ -31,4 +31,4 @@ You can customize the Quiz Application according to your needs:
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 ## Credits
-This project is created by Kalutu Daniel.
+This project is created by me with ❤️.
